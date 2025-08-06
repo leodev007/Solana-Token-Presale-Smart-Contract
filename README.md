@@ -1,6 +1,5 @@
 # Spl token presale smart contract
-This is token presale smart contract. This is full-working project. As a novice of solana smart contract, it might be one of good source code for you. Feel free to reach out of me if you have any question or custom requirements[telegram: https://t.me/DevCutup or whatsapp: https://wa.me/13137423660].
-
+This is token presale smart contract. This is full-working project. As a novice of solana smart contract, it might be one of good source code for you. Feel free to reach out of me if you have any question or custom requirements.
 
 ## How to use it
 
@@ -94,7 +93,3 @@ e.g. yarn script start-presale -t 5U6PVxcjCWo361vFwS6cfB65Br4T5jECA6vsVAtm5urt
 
 e.g. yarn script set-stage -s 1
 
-### Contact Information
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/januscutup
